@@ -1,4 +1,4 @@
-![Lab_logo](https://github.com/Leopardopt2021/Lighthouse-Deck-Detailed-Tutorial/blob/main/Images/logo.png)
+![Lab_logo](Image/logo.png)
 # Lighthouse-Deck-Detailed-Tutorial
 * By: Kamran A. *
 
