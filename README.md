@@ -8,3 +8,5 @@
    
    
    *The FAQ gives some answers to specific questions regarding the testing and setup issues occuring during the procedure*
+
+***Note: Please download Lighthouse Manual for the provided links***
